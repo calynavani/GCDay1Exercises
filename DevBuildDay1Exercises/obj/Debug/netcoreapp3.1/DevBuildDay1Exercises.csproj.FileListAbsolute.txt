@@ -1,0 +1,13 @@
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.exe
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.deps.json
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.runtimeconfig.json
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.dll
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\bin\Debug\netcoreapp3.1\DevBuildDay1Exercises.pdb
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.dll
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.pdb
+C:\Users\CGreene1\source\repos\DevBuildDay1Exercises\DevBuildDay1Exercises\obj\Debug\netcoreapp3.1\DevBuildDay1Exercises.genruntimeconfig.cache
